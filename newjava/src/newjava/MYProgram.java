@@ -12,7 +12,7 @@ public class MYProgram {
 		{
 			char a=i.charAt(j);
 			char b=i.charAt(k);
-			if(a==b)
+			if(a==b)  
 			{
 				if(j>=k)
 				{

@@ -2,9 +2,11 @@
 package newjava;
 import java.util.*;
 public class MYProgram {
+	private static Scanner sc;
+
 	public static void main(String args[])
 	{
-		Scanner sc =new Scanner(System.in);
+		sc = new Scanner(System.in);
 		String i= sc.next();
 		int k= i.length();
 		k--;
